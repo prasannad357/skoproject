@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SKOProject</string>
+    <string name="base_url">https://reqres.in/api/</string>
+</resources>
